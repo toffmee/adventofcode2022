@@ -13,3 +13,9 @@ Part 2 answer: 210367 in 384.4µs
 Part 1 answer: 12772 in 1.7073ms
 Part 2 answer: 11618 in 1.9797ms
 ```
+
+## Day 03
+```
+Part 1 answer: 8018 in 6.1928ms
+Part 2 answer: 2518 in 8.751ms
+```
