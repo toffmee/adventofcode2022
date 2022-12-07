@@ -25,3 +25,9 @@ Part 2 answer: 2518 in 8.751ms
 Part 1 answer: 540 in 1.3851ms
 Part 2 answer: 872 in 1.1844ms
 ```
+
+## Day 05
+```
+Part 1 answer: PSNRGBTFT in 937µs
+Part 2 answer: BNTZFPMMW in 882.9µs
+```
