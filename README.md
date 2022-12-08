@@ -31,3 +31,9 @@ Part 2 answer: 872 in 1.1844ms
 Part 1 answer: PSNRGBTFT in 937µs
 Part 2 answer: BNTZFPMMW in 882.9µs
 ```
+
+## Day 06
+```
+Part 1 answer: 1356 in 246.3µs
+Part 2 answer: 2564 in 1.5797ms
+```

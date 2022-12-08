@@ -1,4 +1,4 @@
-use std::{collections::HashSet, fs, path::Path, time::Instant};
+use std::{fs, path::Path, time::Instant};
 
 fn main() {
     let path = Path::new("../inputs/day04.txt");
