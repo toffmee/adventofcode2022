@@ -37,3 +37,9 @@ Part 2 answer: BNTZFPMMW in 882.9µs
 Part 1 answer: 1356 in 246.3µs
 Part 2 answer: 2564 in 1.5797ms
 ```
+
+## Day 07
+```
+Part 1 answer: 1743217 in 9.7092ms
+Part 2 answer: 8319096 in 10.4847ms
+```
